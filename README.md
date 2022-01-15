@@ -1,5 +1,7 @@
 # TODO App with Django Rest + Vue.js
 
+Built in 22 Jul 2021.
+
 This is tutorial from [`https://newbiecs.tistory.com/294`](https://newbiecs.tistory.com/294). 
 
 ⓒ newbiecs. All rights reserved.
